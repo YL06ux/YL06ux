@@ -19,7 +19,7 @@ Estou atualmente estudando tecnologia e estou desenvolvendo conhecimentos em Qua
   
 
 ## 📁 Projetos em Destaque
-* 
+* https://github.com/YL06ux/qa-portfolio/blob/a6604d504f8e5f6523457c5f1d01a12604661dec/manual/manual/test-cases-login.md
 
 ---
 
