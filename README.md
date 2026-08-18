@@ -8,11 +8,18 @@ Estou atualmente estudando tecnologia e estou desenvolvendo conhecimentos em Qua
 * Sou estudante de tecnologia e estou desenvolvendo conhecimentos em Quality Assurance, testes de software, Python.
 
 ## 🛠️ Tecnologias e Ferramentas
-* **Linguagens:** Python (estudando)
-* **Ferramentas:** Git, GitHub, VS Code
+•Python (estudando)
+•Git (estudando)
+•GitHub (estudando)
+•Testes manuais (estudando)
+•Playwright (estudando)
+•pytest (estudando)
+•Postman (estudando)
+•API REST (estudando)
+  
 
 ## 📁 Projetos em Destaque
-* [Minis Projetos em Python](https://github.com/YL06ux/minis-projetos-em-python-): Meu repositório principal com scripts de automação, lógica e desafios práticos.
+* 
 
 ---
 
