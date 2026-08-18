@@ -1,13 +1,11 @@
 # Olá, eu sou o Yan! 👋
 
-Atualmente estou cursando **Engenharia de Software** na Fametro e utilizando este espaço para documentar a minha evolução na programação e engenharia.
+Estou atualmente estudando tecnologia e estou desenvolvendo conhecimentos em Quality Assurance e em teste de software.
 
 ---
 
 ## 🚀 Sobre Mim
-* 🎓 Graduando em Engenharia de Software.
-* 🐍 Focado em dominar a linguagem Python, estruturas de dados e lógica de programação.
-* ⚙️ Interessado em boas práticas de código, arquitetura de software e metodologias ágeis.
+* Sou estudante de tecnologia e estou desenvolvendo conhecimentos em Quality Assurance, testes de software, Python.
 
 ## 🛠️ Tecnologias e Ferramentas
 * **Linguagens:** Python (estudando)
